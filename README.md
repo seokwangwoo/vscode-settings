@@ -101,6 +101,7 @@ My vscode settings and keybindings
    "vim.hlsearch": true,
    "vim.smartRelativeLine": true,
 }
+```
 
 ## Keybindings
 ```json
@@ -168,3 +169,4 @@ My vscode settings and keybindings
         "when": "explorerResourceIsFolder && filesExplorerFocus && foldersViewVisible && !inputFocus"
     }
 ]
+```
